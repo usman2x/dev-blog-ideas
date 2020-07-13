@@ -1,4 +1,4 @@
-### Deploy create react app on nginx share hosting
+### Deploy create react app using nginx on shared hosting
 1. Create React app
 2. Build react app with relative path
 3. Dockerize react app
