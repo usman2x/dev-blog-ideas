@@ -30,3 +30,6 @@ OAuth is built on the following central components:
 - Okta
 - Keyclock
 - Azure AD connect
+
+### Tutorials
+https://dev.to/azure/using-spring-security-with-azure-active-directory-mga
