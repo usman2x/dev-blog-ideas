@@ -1,0 +1,8 @@
+- Query optimization
+  - show index from failure;
+    - Will show all indexes of particular table
+  - explain (select query);
+    - Insights of query, which indexes are being used, help to optimize query
+  - analyze table failure;
+  - How mysql apply indexes
+  - Advantages and Disadvantages of indexes
