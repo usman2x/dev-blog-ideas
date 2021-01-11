@@ -6,3 +6,5 @@
   - analyze table failure;
   - How mysql apply indexes
   - Advantages and Disadvantages of indexes
+  - Table scaning vs table searching
+    - Without indexing query scan whole table to find records (which is not efficient)
